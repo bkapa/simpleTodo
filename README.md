@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-android_simpletodo.gif
+<img src='https://github.com/bkapa/simpleTodo/blob/master/android_simpletodo.gif' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
